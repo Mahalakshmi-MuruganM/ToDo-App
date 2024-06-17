@@ -1,0 +1,15 @@
+.home {
+  width: 300px;
+  margin: auto;
+}
+.todo-item {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin: 5px 0;
+  display: flex;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
